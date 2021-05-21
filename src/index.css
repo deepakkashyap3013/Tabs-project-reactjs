@@ -171,7 +171,7 @@ Jobs
 .job-btn {
   background: transparent;
   border-color: transparent;
-  text-transform: capitalize;
+  text-transform:capitalize;
   font-size: 1.25rem;
   letter-spacing: var(--spacing);
   margin: 0 0.5rem;
@@ -262,6 +262,4 @@ Jobs
 .btn:hover {
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
-}
-.center-btn {
 }
